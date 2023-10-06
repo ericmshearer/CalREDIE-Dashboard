@@ -1,0 +1,5 @@
+Type: R Project
+Title: CalREDIE Shiny App
+Author: Eric Shearer
+Maintainer: Eric Shearer <ericshearer@me.com>
+Description: Generic shiny app to ingest and visualize complete UDF data exports.
