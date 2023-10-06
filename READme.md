@@ -24,4 +24,4 @@ counts are aggregated at the calendar year and month level, which may
 deviate from other reporting methods.
 
 Any feedback or questions about modifications:
-[ericshearer\@me.com](mailto:ericshearer@me.com){.email}
+[ericshearer\@me.com](mailto:ericshearer@me.com)
