@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Generic UDF Dashboard
 
 **Last Updated:** 10/04/2023<br> **Built with:** R Version 4.3.1
